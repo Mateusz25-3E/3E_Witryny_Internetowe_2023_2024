@@ -1,0 +1,64 @@
+Praca Mateusz Ślęzak 3E nr 25
+Karta pracy 1
+
+zad1.
+
+
+Strict DTD- zawiera wszystkie elementy i atrybuty, które nie są zdeprecjonowane oraz nie pojawiają się w domenach z ramkami 
+Frameset DTD - (dla ramek) zawiera wszystko co w Transitional DTD plus elementy odnoszące się do ramek
+Transitional DTD 
+
+
+zad2.
+
+
+
+<!doctype htmk>
+<html lang"pl">
+
+<head>
+<title> moja strona </title>
+<head>
+
+<body>
+To jest moja strona internetowa
+</body>
+
+
+zad3.
+
+
+1. w HTML
+
+2 Przykład do zadania
+
+3 DTD XHTML 1.1
+
+
+TEST 2
+
+
+zad.1
+C
+zad.2
+C
+zad.3
+D
+zad.4
+A
+zad.5
+A
+
+
+Zadanie Egzaminacyjne
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="content-type" CONTENT="text/html; charset=iso-8859-2">
+</HEAD>
+<BODY>
+Strona internetowa
+</BODY>
+</HTML>
